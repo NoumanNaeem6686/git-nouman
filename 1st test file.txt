@@ -1,5 +1,3 @@
 hello nouman
 abb jb main is fil ko push kru ga to =error aye ga k pehly pull kro
-
-
- ab main jo data enter kr raha hn isy main stash main rakhna chahta hn
+  ab jo main code enter kr raha hn isy main pehly waly stash k 2 din bad show krna chahta hn
